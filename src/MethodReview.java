@@ -41,6 +41,12 @@ public class MethodReview {
 	}
 	
 	//5. Create another method called test4 returns float, 1 Scanner class parameter
+	
+	/**
+	 * Create another method called test4 returns float, 1 Scanner class parameter
+	 * @param scan
+	 * @return
+	 */
 	public static float test4(Scanner scan){
 		return 0f;
 	}
