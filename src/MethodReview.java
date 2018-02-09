@@ -44,8 +44,8 @@ public class MethodReview {
 	
 	/**
 	 * Create another method called test4 returns float, 1 Scanner class parameter
-	 * @param scan
-	 * @return
+	 * @param scan - Scanner object blah blah
+	 * @return float - float of user input
 	 */
 	public static float test4(Scanner scan){
 		return 0f;

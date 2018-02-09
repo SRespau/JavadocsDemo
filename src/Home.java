@@ -57,9 +57,10 @@ public class Home {
 	}
 
 	
+	
 	/**
-	 * Added using Alt-shift J
-	 * @param i
+	 * Testing javadocs shortcut
+	 * @param int age of employee
 	 */
 	private static void testMethod(int i) {
 		// TODO Auto-generated method stub
