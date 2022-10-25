@@ -161,6 +161,9 @@ Un ataque de _pharming_ es difícil de detectar si se realiza bien, por lo que e
 - **Visualizar las notificaciones del antivirus** o el navegador. Si indican que la página no es segura, lo mejor es no entrar y buscar una opción alternativa.
 - **Contar con un buen software de seguridad** y hacerlo, si es posible, en su versión de pago (y no la gratuita, más limitada). También se pueden encontrar opciones ad hoc para este tipo de vulneraciones, más adecuadas a la hora de evitar el robo de información delicada. 
 
+&nbsp;
+
+&nbsp;
 
 ###### Más BBVA
 [Banca privada](https://www.bbva.es/personas/banca-privada.html)
